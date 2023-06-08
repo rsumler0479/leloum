@@ -9992,6 +9992,10 @@ h5,
   color: #fff;
 }
 
+li {
+  color: black;
+}
+
 .btn.btn-white {
   background: rgb(255, 137, 3);
   border: 1px solid rgba(255, 255, 255, 0);

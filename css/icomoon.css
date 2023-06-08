@@ -1,17 +1,19 @@
 @font-face {
-  font-family: 'icomoon';
-  src:  url('../fonts/icomoon/icomoon.eot?6tt51o');
-  src:  url('../fonts/icomoon/icomoon.eot?6tt51o#iefix') format('embedded-opentype'),
-    url('../fonts/icomoon/icomoon.ttf?6tt51o') format('truetype'),
-    url('../fonts/icomoon/icomoon.woff?6tt51o') format('woff'),
-    url('../fonts/icomoon/icomoon.svg?6tt51o#icomoon') format('svg');
+  font-family: "icomoon";
+  src: url("../fonts/icomoon/icomoon.eot?6tt51o");
+  src: url("../fonts/icomoon/icomoon.eot?6tt51o#iefix")
+      format("embedded-opentype"),
+    url("../fonts/icomoon/icomoon.ttf?6tt51o") format("truetype"),
+    url("../fonts/icomoon/icomoon.woff?6tt51o") format("woff"),
+    url("../fonts/icomoon/icomoon.svg?6tt51o#icomoon") format("svg");
   font-weight: normal;
   font-style: normal;
 }
 
-[class^="icon-"], [class*=" icon-"] {
+[class^="icon-"],
+[class*=" icon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: 'icomoon' !important;
+  font-family: "icomoon" !important;
   speak: none;
   font-style: normal;
   font-weight: normal;
@@ -105,7 +107,7 @@
 .icon-trash-o:before {
   content: "\f014";
 }
-.icon-home:before {
+.icon-What We Do:before {
   content: "\f015";
 }
 .icon-file-o:before {
@@ -714,7 +716,7 @@
 .icon-dashboard:before {
   content: "\f0e4";
 }
-.icon-tachometer:before {
+.icon-tacWhat We Doter:before {
   content: "\f0e4";
 }
 .icon-comment-o:before {
@@ -3540,7 +3542,7 @@
 .icon-restore:before {
   content: "\e8b3";
 }
-.icon-home2:before {
+.icon-What We Do2:before {
   content: "\e88a";
 }
 .icon-hot_tub:before {
